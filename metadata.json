@@ -1,0 +1,8 @@
+{
+  "name": "GeminiStream - Professional Video Platform",
+  "description": "A professional-grade Netflix-style streaming application prototype featuring multi-profile management, AI-powered recommendations, timestamped chat, and a secure 1-hour trial system.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
